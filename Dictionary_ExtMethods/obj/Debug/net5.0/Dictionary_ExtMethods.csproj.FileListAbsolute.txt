@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.exe
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.deps.json
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.dll
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\ref\Dictionary_ExtMethods.dll
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\bin\Debug\net5.0\Dictionary_ExtMethods.pdb
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.dll
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\ref\Dictionary_ExtMethods.dll
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.pdb
+C:\Users\015238631\Documents\Projetos.net\Dictionary_ExtMethods\Dictionary_ExtMethods\obj\Debug\net5.0\Dictionary_ExtMethods.genruntimeconfig.cache
